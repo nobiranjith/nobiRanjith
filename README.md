@@ -241,37 +241,31 @@ Secondary School Leaving Certificate
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,100:0a192f&height=3&width=100%"/>
 
-## GitHub Analytics
+---
 
-<div align="center">
+## 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=nobiranjith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=nobiranjith&theme=tokyonight&hide_border=true&background=0D1117&stroke=00f5ff&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff" width="49%"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nobiranjith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobiranjith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f5ff&text_color=c9d1d9" width="49%"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nobiranjith&theme=tokyonight&hide_border=true&background=0D1117" height="180"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobiranjith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/>
+</p>
 
-### Contribution Snake
+---
+## 🎯 Current Focus
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/nobiranjith/nobiranjith/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-> ℹ️ The snake animation only renders once the snake workflow Action is set up in your `nobiranjith/nobiranjith` repo and has run at least once — see the note at the end of this message for the workflow file to add.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,100:0a192f&height=3&width=100%"/>
-
-## Current Focus
-
-- [ ] Spring Boot Microservices
-- [ ] REST API Architecture
-- [ ] Java Backend Engineering
-- [ ] Machine Learning Optimization
-- [ ] GitHub Collaboration Workflows
-- [ ] AI Product Development
+- 🚀 Spring Boot Microservices
+- 🔗 REST API Architecture
+- ☕ Java Backend Engineering
+- 🤖 Machine Learning Optimization
+- 🌐 GitHub Collaboration Workflows
+- 🧠 AI Product Development
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,100:0a192f&height=3&width=100%"/>
 
