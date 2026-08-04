@@ -1,19 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:0891b2,100:00f5ff&height=250&section=header&text=Ranjith%20A&fontSize=54&fontColor=e0f2fe&animation=fadeIn&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Java%20Backend%20Developer%20%7C%20ML%20Engineer%20in%20Progress&descAlignY=52&descSize=17" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F5FF,100:0D1117&height=240&section=header&text=Ranjith%20A&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Machine%20Learning&descAlignY=58&descAlign=50" width="100%" alt="Header Banner"/>
 
-<br/>
+  <br/><br/>
 
-<!--
-  PROFILE PHOTO — paste your uploaded image URL below.
-  Upload a photo to this repo (e.g. assets/profile.png) or to a GitHub issue and
-  copy the resulting githubusercontent.com link into src="" below.
--->
-<img src="nobi.png"
-     width="200" alt="Ranjith A"
-     style="border-radius:50%; border:4px solid #00F5FF; box-shadow:0 0 30px #00F5FF;"/>
+  <img src="nobi.png" width="220" alt="Ranjith A" style="border-radius:50%; border:5px solid #00F5FF; box-shadow:0 0 25px #00F5FF;"/>
 
-<br/><br/>
+  <br/><br/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=AI+Engineer+in+Progress;Java+Backend+Developer;Spring+Boot+Enthusiast;Deep+Learning+Explorer;Open+Source+Contributor" alt="Typing Animation"/>
+  </a>
+
+</div>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=AI+Engineer+in+Progress;Java+Backend+Developer;Spring+Boot+Enthusiast;Deep+Learning+Explorer;Open+Source+Contributor" alt="Typing SVG" />
