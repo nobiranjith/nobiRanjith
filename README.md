@@ -7,19 +7,17 @@
     alt="Animated Header"
   />
 
-  <br/><br/>
-
+  <br/>
   <!-- Perfect glowing circular profile photo -->
   <img
     src="https://raw.githubusercontent.com/nobiranjith/nobiRanjith/main/nobi.png"
     alt="Ranjith A"
     width="230"
     height="230"
-    style="border-radius:50%; object-fit:cover; object-position:center top; border:6px solid #00F5FF; padding:4px; background:#0B0F19; box-shadow:0 0 15px #00F5FF, 0 0 30px #00F5FF, 0 0 60px #00BFFF, 0 0 90px rgba(0,245,255,0.9);"
+    style="border-radius:65%; object-fit:cover; object-position:center top; border:6px solid #00F5FF; padding:4px; background:#0B0F19; box-shadow:0 0 15px #00F5FF, 0 0 30px #00F5FF, 0 0 60px #00BFFF, 0 0 90px rgba(0,245,255,0.9);"
   />
 
-  <br/><br/>
-
+  <br/>
   <!-- Professional typing animation -->
   <a href="https://git.io/typing-svg">
     <img
