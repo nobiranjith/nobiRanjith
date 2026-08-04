@@ -246,15 +246,25 @@ Secondary School Leaving Certificate
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nobiranjith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=nobiranjith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF"
+    width="48%"
+    alt="GitHub Stats"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobiranjith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF"
+    width="48%"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nobiranjith&theme=tokyonight&hide_border=true&background=0D1117" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobiranjith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=nobiranjith&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=FFFFFF&dates=AAAAAA"
+    width="75%"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
