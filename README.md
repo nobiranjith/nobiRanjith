@@ -88,7 +88,7 @@
 <a href="https://github.com/nobiranjith">
   <img src="https://img.shields.io/badge/GitHub-nobiranjith-0A192F?style=for-the-badge&logo=github&logoColor=00F5FF" />
 </a>
-
+<p>+91 88256 94552</p>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,100:0a192f&height=3&width=100%"/>
