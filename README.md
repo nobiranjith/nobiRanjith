@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Professional animated banner -->
+  <!-- Animated futuristic banner -->
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,25:001F3F,50:00F5FF,75:001F3F,100:0B0F19&height=300&section=header&text=Ranjith%20A&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Machine%20Learning&descAlignY=62&descAlign=50"
     width="100%"
@@ -9,33 +9,35 @@
 
   <br/><br/>
 
-  <!-- Glowing circular profile photo -->
-  <div style="
-      width:240px;
-      height:240px;
-      border-radius:50%;
-      padding:6px;
-      background:linear-gradient(135deg,#00F5FF,#0088FF,#00F5FF);
-      display:inline-block;
-      box-shadow:
-        0 0 12px #00F5FF,
-        0 0 24px #00F5FF,
-        0 0 48px #0088FF,
-        0 0 72px rgba(0,245,255,0.9);
-    ">
- <img
-      src="nobi.png"
-      width="228"
-      height="228"
-      alt="Ranjith A"
-      style="
-        border-radius:50%;
-        object-fit:cover;
-        display:block;
-        background:#0B0F19; "
-    />
+  <!-- Perfect glowing circular profile photo -->
+  <img
+    src="https://raw.githubusercontent.com/nobiranjith/nobiRanjith/main/nobi.png"
+    alt="Ranjith A"
+    width="230"
+    height="230"
+    style="border-radius:50%; object-fit:cover; object-position:center top; border:6px solid #00F5FF; padding:4px; background:#0B0F19; box-shadow:0 0 15px #00F5FF, 0 0 30px #00F5FF, 0 0 60px #00BFFF, 0 0 90px rgba(0,245,255,0.9);"
+  />
 
-  </div>
+  <br/><br/>
+
+  <!-- Professional typing animation -->
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2200&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=AI+Engineer+in+Progress;Java+Backend+Developer;Spring+Boot+Microservices+Developer;Deep+Learning+Explorer;Open+Source+Contributor;Building+Intelligent+Scalable+Systems"
+      alt="Typing Animation"
+    />
+  </a>
+
+  <br/><br/>
+
+  <!-- Neon animated divider -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:0B0F19&height=4&section=header"
+    width="90%"
+    alt="Divider"
+  />
+
+</div>
 
   <br/><br/>
 
