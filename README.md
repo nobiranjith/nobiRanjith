@@ -199,13 +199,13 @@ Secondary School Leaving Certificate
 <br/><br/>
 
 <p align="center">
-  <a href="https://github.com/nobiranjith/Future-Gold-Price-Prediction">
+  <a href="https://github.com/nobiranjith/Gold-Price-Prediction.git">
     <img src="https://img.shields.io/badge/View_Project-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
-  <a href="https://github.com/nobiranjith/Future-Gold-Price-Prediction">
+  <a href="https://github.com/nobiranjith/Gold-Price-Prediction/blob/main/gold_price%20prediction.py">
     <img src="https://img.shields.io/badge/View_Code-0A192F?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://github.com/nobiranjith/Future-Gold-Price-Prediction">
+  <a href="https://github.com/nobiranjith/Gold-Price-Prediction/blob/main/Screenshot%202026-03-04%20022224.png">
     <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
