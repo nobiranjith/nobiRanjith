@@ -1,214 +1,316 @@
-<div align="center">
+## Claude Prompt — Generate My Complete Senior-Level GitHub Profile README
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0891b2,100:22d3ee&height=220&section=header&text=Ranjith%20A&fontSize=52&fontColor=e0f2fe&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Java%20Developer%20Intern%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+Create a **fully working, premium GitHub profile README.md** for **Ranjith A** with **advanced animations, professional UI, real repository links, education section, and a centered professional profile photo**.
 
-<br/>
+### Important Requirements
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=AI+Engineer+in+Progress;Java+Backend+Developer;Machine+Learning+Enthusiast;Spring+Boot+Learner;Open+Source+Contributor" alt="Typing SVG" />
-</a>
+* Generate **only the final README.md code**
+* Use **Markdown + HTML**
+* All buttons must have **real GitHub links**
+* No broken images
+* No placeholder `#` links
+* Make it look like a **Senior AI Engineer + Java Backend Developer portfolio**
+* Use **dark futuristic theme with neon cyan / blue glow**
+* Add **multiple SVG wave animations**
+* Add **typing animation**
+* Add **animated contribution snake**
+* Add **glassmorphism cards**
+* Add **hover-style buttons using shields.io**
+* Make it **recruiter-ready and production-quality**
 
-<br/><br/>
+---
 
-<em>Building intelligent systems, scalable backend services, and data-driven applications with AI, Java, and modern development tools.</em>
+## My Details
 
-<br/><br/>
+### Name
 
-<a href="mailto:ranjitharmy73@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-ranjitharmy73%40gmail.com-0891b2?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/ranjith-a-669252368">
-  <img src="https://img.shields.io/badge/LinkedIn-Ranjith%20A-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/nobiranjith">
-  <img src="https://img.shields.io/badge/GitHub-nobiranjith-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+**Ranjith A**
 
-</div>
+### Location
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,100:0f172a&height=2&width=100%"/>
+**Tiruchirappalli, Tamil Nadu, India**
+
+### GitHub
+
+**https://github.com/nobiranjith**
+
+### LinkedIn
+
+**https://linkedin.com/in/ranjith-a-669252368**
+
+### Email
+
+**[ranjitharmy73@gmail.com](mailto:ranjitharmy73@gmail.com)**
+
+---
+
+## Professional Profile Photo
+
+At the top center, use this exact image:
+
+```html
+<p align="center">
+  <img src="PASTE_MY_UPLOADED_IMAGE_URL_HERE"
+       width="220"
+       style="border-radius:50%; border:4px solid #00F5FF; box-shadow:0 0 30px #00F5FF;"/>
+</p>
+```
+
+Keep it **circular, glowing, and centered**.
+
+---
+
+## Hero Section
+
+Create an **animated cyberpunk hero section** with:
+
+* Large glowing name
+* Animated typing effect
+* Moving gradient banner
+* Subtitle:
+  **AI & Data Science Student | Java Backend Developer | ML Engineer in Progress**
+
+Typing animation should rotate through:
+
+* AI Engineer in Progress
+* Java Backend Developer
+* Spring Boot Enthusiast
+* Deep Learning Explorer
+* Open Source Contributor
+
+Use **readme-typing-svg**.
+
+---
 
 ## About Me
 
-I'm a final-year **B.Tech Artificial Intelligence and Data Science** student at **Indra Ganesan College of Engineering**, Tiruchirappalli, with a strong foundation in deep learning, applied data science, and backend engineering. My interests span **AI/ML model development, time-series forecasting, Spring Boot backend systems, and REST API design**.
+Write a professional summary:
 
-- 🔭 Currently strengthening backend engineering skills through a **Java Developer Internship**
-- 🤖 Passionate about turning **AI research into deployable, real-world applications**
-- ⚙️ Comfortable moving across the stack — from **LSTM models** to **Spring Boot microservices**
-- 🌱 Analytical thinker who enjoys structured problem-solving and continuous learning
-- 🤝 Open to collaborating on AI, backend, and full-stack projects
+* Final-year **B.Tech Artificial Intelligence and Data Science** student
+* Strong foundation in **Deep Learning, Machine Learning, Backend Engineering, REST API Development, and Data Science**
+* Passionate about building **deployable AI systems and scalable backend applications**
+* Interested in **LSTM forecasting, Spring Boot microservices, and real-world AI solutions**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,100:0f172a&height=2&width=100%"/>
+Add 5 professional bullet points with icons.
+
+---
+
+## Education Section
+
+Add a beautiful **Education timeline card**:
+
+### 🎓 B.Tech — Artificial Intelligence and Data Science
+
+**Indra Ganesan College of Engineering, Tiruchirappalli**
+**2023 – Present**
+
+### 📘 HSC (Biology)
+
+**Completed: 2023**
+**Score: 79%**
+
+### 📗 SSLC
+
+**Completed: 2021**
+**Score: 80%**
+
+Make this section visually attractive using **HTML tables or glassmorphism cards**.
+
+---
 
 ## Tech Stack
 
-**Programming Languages**
+Create animated badge groups.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+### Programming
 
-**Web Technologies**
+* Python
+* Java
+* C
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+### Web
 
-**AI / ML**
+* HTML5
+* CSS3
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
+### AI / ML
 
-**Backend & Tools**
+* TensorFlow
+* Keras
+* Scikit-learn
+* Pandas
+* NumPy
+* Matplotlib
 
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/JDBC-4479A1?style=flat-square&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+### Backend & Tools
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,100:0f172a&height=2&width=100%"/>
+* Spring Boot
+* Maven
+* Git
+* JDBC
+* MySQL
 
-## Featured Project
+Use **for-the-badge** style.
 
-<div align="center">
+---
 
-### 🔹 Future Gold Price Prediction
+## Featured Project (Important)
 
-<em>LSTM-based deep learning system for financial time-series forecasting</em>
+### Future Gold Price Prediction
 
-</div>
+Description:
 
-- Developed an **LSTM-based deep learning model** for gold price forecasting
-- Collected historical financial data using **yfinance**
-- Performed preprocessing, feature scaling, and time-series sequence modeling
-- Generated **next-day predictions** and **30-day future forecasts**
-- Evaluated model performance using **MAE and R² metrics**
+* Developed an **LSTM-based deep learning model**
+* Used **yfinance** to collect historical gold price data
+* Performed preprocessing, scaling, training, and forecasting
+* Generated **next-day prediction and 30-day forecast**
+* Evaluated using **MAE and R²**
 
-<div align="center">
+### Buttons (Must Work Properly)
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/yfinance-22D3EE?style=flat-square&logo=yahoo&logoColor=white"/>
+Use these exact links:
 
-<br/><br/>
+```html
+<p align="center">
+  <a href="https://github.com/nobiranjith/Future-Gold-Price-Prediction">
+    <img src="https://img.shields.io/badge/View_Project-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+  <a href="https://github.com/nobiranjith/Future-Gold-Price-Prediction">
+    <img src="https://img.shields.io/badge/View_Code-0A192F?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/nobiranjith/Future-Gold-Price-Prediction">
+    <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+```
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-0891b2?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Repository](https://img.shields.io/badge/Repository-View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nobiranjith)
+All three buttons must **directly open the repository page**.
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,100:0f172a&height=2&width=100%"/>
+---
 
 ## Internship Experience
 
+Create a **professional vertical timeline**.
+
+### Java Developer Intern — Axlero Innovation Solutions (Jul 2026 – Oct 2026)
+
+Include:
+
+* Core Java
+* OOP
+* Collections Framework
+* Exception Handling
+* JDBC
+* Maven
+* Git
+* MySQL
+* Spring Boot
+* REST API Development
+* Team collaboration using Git
+
+### Artificial Intelligence Intern — Pantech.AI (Feb 2026 – Apr 2026)
+
+### Artificial Intelligence Intern — Kiwistron (Dec 2025 – Jan 2026)
+
+### Data Science Essentials Intern — Judah Code Technologies (Jun 2025 – Jul 2025)
+
+Use **timeline-style formatting with glowing icons**.
+
+---
+
+## GitHub Analytics
+
+Add these **working widgets**:
+
+### GitHub Stats
+
+```markdown
+https://github-readme-stats.vercel.app/api?username=nobiranjith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117
 ```
-🟦 Java Developer Intern — Axlero Innovation Solutions
-    Jul 2026 – Oct 2026
-    → Core Java, OOP, Collections Framework, Exception Handling
-    → JDBC, Maven, Git, MySQL
-    → Spring Boot & REST API development
-    → Team collaboration using Git
 
-🟩 Artificial Intelligence Intern — Pantech.AI, Chennai
-    Feb 2026 – Apr 2026
-    → Real-world AI applications
-    → Practical AI implementation projects
+### Streak Stats
 
-🟨 Artificial Intelligence Intern — Kiwistron, Trichy
-    Dec 2025 – Jan 2026
-    → AI training
-    → Exposure to industry AI workflows
-
-🟧 Data Science Essentials Intern — Judah Code Technologies
-    Jun 2025 – Jul 2025
-    → Practical data science exercises and daily tasks
+```markdown
+https://streak-stats.demolab.com?user=nobiranjith&theme=tokyonight&hide_border=true&background=0D1117
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,100:0f172a&height=2&width=100%"/>
+### Top Languages
 
-## GitHub Statistics
+```markdown
+https://github-readme-stats.vercel.app/api/top-langs/?username=nobiranjith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117
+```
 
-<div align="center">
+Display them in a **centered responsive layout**.
 
-<img src="https://github-readme-stats.vercel.app/api?username=nobiranjith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nobiranjith&theme=tokyonight&hide_border=true&background=0d1117&stroke=22d3ee&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee" width="49%"/>
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobiranjith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nobiranjith&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=22d3ee&line=22d3ee&point=e0f2fe" width="49%"/>
+## Contribution Snake Animation
 
-</div>
+Add this exact working code:
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,100:0f172a&height=2&width=100%"/>
+```markdown
+![Snake animation](https://raw.githubusercontent.com/nobiranjith/nobiranjith/output/github-contribution-grid-snake-dark.svg)
+```
 
-## Currently Learning
+---
 
-- [ ] Spring Boot Microservices
-- [ ] REST API Development
-- [ ] Advanced Java
-- [ ] Machine Learning Model Optimization
-- [ ] GitHub Collaboration Workflows
-- [ ] Backend System Design
+## Current Focus
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,100:0f172a&height=2&width=100%"/>
+Create a glowing checklist:
+
+* Spring Boot Microservices
+* REST API Architecture
+* Java Backend Engineering
+* Machine Learning Optimization
+* GitHub Collaboration Workflows
+* AI Product Development
+
+Use animated-looking checkboxes.
+
+---
 
 ## Achievements
 
-<table>
-<tr>
-<td width="50%">
+Create **3-column achievement cards**:
 
-**🏆 National Level 24-Hour Hackathon**
-CARE College of Engineering
+* 🏆 National Level 24-Hours Hackathon — CARE College of Engineering
+* 💻 HackerHunt — Kalasalingam University
+* 📜 6-Day C/Python Programming Course
+* 🌐 International Conference on AI, Data Science & Cyber Security
 
-</td>
-<td width="50%">
+Use **HTML table cards with cyan borders**.
 
-**🏆 HackerHunt**
-Kalasalingam University
+---
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+## Professional Quote
 
-**📜 6-Day C/Python Programming Course**
-Certified Program
+Add a glowing quote block:
 
-</td>
-<td width="50%">
+> **"Great software is created when intelligent algorithms, scalable architecture, and continuous learning come together to solve real-world problems."**
 
-**🎓 International Conference**
-AI, Data Science & Cyber Security
+---
 
-</td>
-</tr>
-</table>
+## Animated Footer
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,100:0f172a&height=2&width=100%"/>
+Create an impressive footer with:
 
-## Coding Philosophy
+* Animated wave SVG
+* Centered text:
+  **Thanks for visiting my profile 🚀**
+* Subtitle:
+  **Let’s build AI-powered solutions together**
+* Add a **visitor counter badge**
+* Add **sparkles GIF**
 
-> *"I believe great software combines intelligent algorithms, clean architecture, and continuous learning. Every project is an opportunity to transform ideas into impactful real-world solutions."*
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0891b2,100:22d3ee&height=150&section=footer"/>
+## Final Quality Rules
 
-<div align="center">
-
-**Thanks for visiting my profile**
-
-<img src="https://raw.githubusercontent.com/copy-run/copy-run/master/wave.gif" width="28"/>
-
-**Let's build something amazing together 🚀**
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Handshake.gif" width="60"/>
-
-</div>
+* No broken image links
+* No missing sections
+* No placeholder text
+* No empty repository URLs
+* Use **professional spacing**
+* Add **horizontal neon dividers**
+* Make the final README look comparable to **top GitHub developer profiles**
+* Ensure the generated Markdown is **ready to paste directly into `README.md` without any edits**
