@@ -9,8 +9,8 @@
   Upload a photo to this repo (e.g. assets/profile.png) or to a GitHub issue and
   copy the resulting githubusercontent.com link into src="" below.
 -->
-<img src="nobiRanjith"
-     width="200"
+<img src="nobi.png"
+     width="200" alt="Ranjith A"
      style="border-radius:50%; border:4px solid #00F5FF; box-shadow:0 0 30px #00F5FF;"/>
 
 <br/><br/>
